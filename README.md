@@ -1,8 +1,7 @@
 ### Hey!! 🖖🏻 É bom ter você por aqui, só não repara na bagunça. 😅😅
 
-Me chamo Nubia, tenho 24 anos. \
+Me chamo Nubia. \
 Sou bacharel em Física com enfase computacional pela UFF.📚 \
-Sou apaixonada por tecnologia e entusiasta de muitas áreas. \
 Amo programar e me aventurar pela área de Computação de Alto Desempenho - HPC. 💻\
 Atualmente faço parte do time de P&D do [Laboratório Interinstitucional de e-Astronomia - LIneA](https://linea.org.br/) \
 Nas horas vagas jogo Valorant 🖱🖤
