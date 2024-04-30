@@ -3,7 +3,7 @@
 Me chamo Nubia. \
 Sou bacharel em Física com enfase computacional pela UFF.📚 \
 Amo programar e me aventurar pela área de Computação de Alto Desempenho - HPC. 💻\
-Atualmente faço parte do time de P&D do [Laboratório Interinstitucional de e-Astronomia - LIneA](https://linea.org.br/) \
+Atualmente faço parte do time de Infraestrutura do [Laboratório Interinstitucional de e-Astronomia - LIneA](https://linea.org.br/) \
 Nas horas vagas jogo Valorant 🖱🖤
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" title="Python" alt="Python" width="30" height="30"/>&nbsp;
